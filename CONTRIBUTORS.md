@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Oleg Thorin](https://github.com/3fed)
+- Place: Minsk, By
+- Bio: Python Programmer
+- GitHub: [3fed](https://github.com/3fed)
